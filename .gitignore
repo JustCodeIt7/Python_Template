@@ -199,4 +199,9 @@ Plotly_Dash_Dashboards/01-Plotly_Basics_Charts/12-Sankey_Diagram/archive
 .kilocode/
 .roo/
 .continue/
-
+*.clinerules
+*.aiignore
+# ignore any starting with a dot
+.*/
+# Except for this one
+!/.github/
